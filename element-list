@@ -1,3 +1,9 @@
+apihttp
+com.example.accessingdatamysql
+commands
 coreapi
 coreapiTest
 data
+filepersistence
+terminalcli
+ui
